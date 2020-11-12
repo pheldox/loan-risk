@@ -1,4 +1,9 @@
 # loan risk
+<<<<<<< HEAD
+This project aims to develop a robust module for predicting your chances of loan approval. The features used for prediction are considered to be available at the time of loan origination and thus do not leak any information from the future. The prediction model has been built separately for Individual Applicants and Joint Applicants with a maximum accuracy. Few highly correlated features such as Grade, Sub Grade, Interest Rate are estimated using the provided FICO score by the applicant. 
+
+Tools used: 
+=======
 This project aims to develop a robust module for predicting your chances of loan approval. The features used for prediction are considered to be available at the time of loan origination. The prediction model has been built separately for Individual Applicants and Joint Applicants with a maximum accuracy. Few highly correlated features such as Grade, Sub Grade, Interest Rate are estimated using the provided FICO score by the applicant. 
 
 App demo: https://loan-risk-predict.herokuapp.com/
@@ -42,3 +47,4 @@ The website was built using flask web framework and deployed to heroku server.
 
 The visualization was done in Tableau.
 
+>>>>>>> 572245750edcb1bbfafd834d618feac6e1a78097
