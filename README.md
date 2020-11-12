@@ -1,6 +1,8 @@
 # loan risk
 This project aims to develop a robust module for predicting your chances of loan approval. The features used for prediction are considered to be available at the time of loan origination. The prediction model has been built separately for Individual Applicants and Joint Applicants with a maximum accuracy. Few highly correlated features such as Grade, Sub Grade, Interest Rate are estimated using the provided FICO score by the applicant. 
 
+App demo: https://loan-risk-predict.herokuapp.com/
+
 # Report
 The aim of the project is develop and end to end application that helpls a user to determine his chances of getting a loan.
 
