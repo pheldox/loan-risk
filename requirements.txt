@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy==1.19.0
 pandas==0.25.1
 Flask==1.1.1
@@ -5,3 +6,12 @@ scikit_learn==0.23.1
 gunicorn==19.9.0
 xgboost==1.1.1
 imblearn==0.0
+=======
+numpy==1.19.0
+pandas==0.25.1
+Flask==1.1.1
+scikit_learn==0.23.1
+gunicorn==19.9.0
+xgboost==1.1.1
+imblearn==0.0
+>>>>>>> 572245750edcb1bbfafd834d618feac6e1a78097
